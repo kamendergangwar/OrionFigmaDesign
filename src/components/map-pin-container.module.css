@@ -1,0 +1,62 @@
+.indicatorIcon {
+  position: relative;
+  width: 40px;
+  height: 40px;
+  flex-shrink: 0;
+}
+.amount,
+.title {
+  position: relative;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  font-weight: 300;
+}
+.amount {
+  font-size: var(--headline-h62-size);
+  letter-spacing: 0.15px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.info,
+.tooltip {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.tooltip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-lg);
+  background-color: var(--snow4);
+  flex-direction: row;
+  padding: var(--padding-xs) var(--padding-sm);
+  align-items: center;
+  gap: var(--gap-sm);
+}
+.arrowIcon {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 10.99px);
+  width: 22.27px;
+  height: 13.5px;
+}
+.mapPinPinWithName {
+  position: absolute;
+  top: calc(50% - 250px);
+  right: 1147px;
+  box-shadow: 0 140.8308868408203px 112.66px rgba(41, 52, 149, 0.21),
+    0 58.83578109741211px 47.07px rgba(41, 52, 149, 0.15),
+    0 31.456422805786133px 25.17px rgba(41, 52, 149, 0.13),
+    0 17.634212493896484px 14.11px rgba(41, 52, 149, 0.1),
+    0 9.365398406982422px 7.49px rgba(41, 52, 149, 0.08),
+    0 3.8971519470214844px 3.12px rgba(41, 52, 149, 0.06);
+  width: 180px;
+  height: 72px;
+  text-align: left;
+  font-size: var(--body-body-12-size);
+  color: var(--night-blue2);
+  font-family: var(--headline-h52);
+}

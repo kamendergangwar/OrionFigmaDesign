@@ -1,0 +1,412 @@
+.bgLinesIcon,
+.bgLinesIcon1 {
+  position: absolute;
+  height: 106.43%;
+  width: 93.63%;
+  top: 8.35%;
+  right: 1.85%;
+  bottom: -14.78%;
+  left: 4.52%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bgLinesIcon1 {
+  height: 100%;
+  width: 90.15%;
+  top: 0;
+  right: 3.59%;
+  bottom: 0;
+  left: 6.26%;
+}
+.purchaseFullLicense1 {
+  text-decoration: underline;
+}
+.purchaseFullLicense {
+  color: inherit;
+}
+.title {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 377.5px);
+  letter-spacing: -1.75px;
+  line-height: 118px;
+  font-weight: 500;
+}
+.bubbleIcon,
+.bubbleIcon1,
+.bubbleIcon2,
+.bubbleIcon3,
+.bubbleIcon4 {
+  position: absolute;
+  height: 69.37%;
+  width: 47.51%;
+  top: 28.6%;
+  right: 24.33%;
+  bottom: 2.03%;
+  left: 28.16%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bubbleIcon1,
+.bubbleIcon2,
+.bubbleIcon3,
+.bubbleIcon4 {
+  height: 57.53%;
+  width: 32.44%;
+  top: 39.42%;
+  right: 1.16%;
+  bottom: 3.05%;
+  left: 66.4%;
+}
+.bubbleIcon2,
+.bubbleIcon3,
+.bubbleIcon4 {
+  height: 47.88%;
+  width: 25.84%;
+  top: 28.26%;
+  right: 12.4%;
+  bottom: 23.86%;
+  left: 61.76%;
+}
+.bubbleIcon3,
+.bubbleIcon4 {
+  height: 51.95%;
+  width: 28.62%;
+  top: 16.24%;
+  right: 37.54%;
+  bottom: 31.81%;
+  left: 33.84%;
+}
+.bubbleIcon4 {
+  height: 47.38%;
+  width: 25.49%;
+  top: 51.27%;
+  right: 49.02%;
+  bottom: 1.35%;
+  left: 25.49%;
+}
+.bubbleIcon10,
+.bubbleIcon11,
+.bubbleIcon5,
+.bubbleIcon6,
+.bubbleIcon7,
+.bubbleIcon8,
+.bubbleIcon9 {
+  position: absolute;
+  height: 30.46%;
+  width: 20.86%;
+  top: 20.81%;
+  right: 12.75%;
+  bottom: 48.73%;
+  left: 66.4%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bubbleIcon10,
+.bubbleIcon11,
+.bubbleIcon6,
+.bubbleIcon7,
+.bubbleIcon8,
+.bubbleIcon9 {
+  top: 56.51%;
+  right: 18.42%;
+  bottom: 13.03%;
+  left: 60.72%;
+}
+.bubbleIcon10,
+.bubbleIcon11,
+.bubbleIcon7,
+.bubbleIcon8,
+.bubbleIcon9 {
+  top: 6.26%;
+  right: 58.75%;
+  bottom: 63.28%;
+  left: 20.39%;
+}
+.bubbleIcon10,
+.bubbleIcon11,
+.bubbleIcon8,
+.bubbleIcon9 {
+  top: 68.02%;
+  right: 75.78%;
+  bottom: 1.52%;
+  left: 3.36%;
+}
+.bubbleIcon10,
+.bubbleIcon11,
+.bubbleIcon9 {
+  height: 10.15%;
+  width: 6.95%;
+  top: 35.87%;
+  right: 85.63%;
+  bottom: 53.98%;
+  left: 7.42%;
+}
+.bubbleIcon10,
+.bubbleIcon11 {
+  height: 37.23%;
+  width: 25.49%;
+  top: 58.21%;
+  right: -9.27%;
+  bottom: 4.57%;
+  left: 83.78%;
+}
+.bubbleIcon11 {
+  height: 10.83%;
+  width: 7.42%;
+  top: 50.42%;
+  right: 92.58%;
+  bottom: 38.75%;
+  left: 0;
+}
+.bubbleIcon12,
+.bubbleIcon13,
+.bubbleIcon14,
+.bubbleIcon15,
+.bubbleIcon16,
+.bubbleIcon17 {
+  position: absolute;
+  height: 54.31%;
+  width: 30.24%;
+  top: 50.93%;
+  right: 60.83%;
+  bottom: -5.25%;
+  left: 8.92%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.bubbleIcon13,
+.bubbleIcon14,
+.bubbleIcon15,
+.bubbleIcon16,
+.bubbleIcon17 {
+  height: 44.16%;
+  top: 42.47%;
+  right: -6.84%;
+  bottom: 13.37%;
+  left: 76.59%;
+}
+.bubbleIcon14,
+.bubbleIcon15,
+.bubbleIcon16,
+.bubbleIcon17 {
+  height: 57.02%;
+  width: 32.1%;
+  top: 72.25%;
+  right: 14.02%;
+  bottom: -29.27%;
+  left: 53.88%;
+}
+.bubbleIcon15,
+.bubbleIcon16,
+.bubbleIcon17 {
+  height: 66.84%;
+  width: 38.82%;
+  top: 67.01%;
+  right: 41.48%;
+  bottom: -33.84%;
+  left: 19.7%;
+}
+.bubbleIcon16,
+.bubbleIcon17 {
+  height: 61.42%;
+  width: 35.11%;
+  top: 23.35%;
+  right: 50.06%;
+  bottom: 15.23%;
+  left: 14.83%;
+}
+.bubbleIcon17 {
+  top: 4.74%;
+  right: 17.15%;
+  bottom: 33.84%;
+  left: 47.74%;
+}
+.bubbleChart {
+  position: absolute;
+  top: 63px;
+  left: calc(50% - 431.5px);
+  width: 863px;
+  height: 591px;
+  font-size: var(--headline-h1-size);
+  color: inherit;
+}
+.time,
+.tittle,
+.value {
+  position: absolute;
+  letter-spacing: 0.44px;
+}
+.time {
+  top: 71.83%;
+  left: 23.53%;
+  line-height: 20px;
+  font-family: var(--body-body-22);
+  color: var(--color-lavender-100);
+}
+.tittle,
+.value {
+  top: 0;
+  left: 0;
+  font-size: var(--body-body-12-size);
+  line-height: 24px;
+  font-weight: 300;
+}
+.value {
+  top: 29.58%;
+  left: 9.8%;
+  font-size: var(--headline-h62-size);
+  letter-spacing: 0.15px;
+  line-height: 32px;
+  font-weight: 600;
+}
+.investments {
+  position: absolute;
+  height: 9.13%;
+  width: 11.82%;
+  top: 46.92%;
+  right: 42.53%;
+  bottom: 43.96%;
+  left: 45.65%;
+  font-size: var(--body-body-22-size);
+}
+.time1 {
+  position: absolute;
+  top: 71.83%;
+  left: 16.25%;
+  letter-spacing: 0.44px;
+  line-height: 20px;
+  font-family: var(--body-body-22);
+  color: var(--color-steelblue-200);
+}
+.value1 {
+  top: 29.58%;
+  left: 0;
+  font-size: var(--headline-h62-size);
+  letter-spacing: 0.15px;
+  line-height: 32px;
+  font-weight: 600;
+}
+.design,
+.title1,
+.value1 {
+  position: absolute;
+}
+.title1 {
+  top: 0;
+  left: 15%;
+  font-size: var(--body-body-12-size);
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  font-weight: 300;
+}
+.design {
+  height: 9.13%;
+  width: 9.27%;
+  top: 69.15%;
+  right: 63.73%;
+  bottom: 21.72%;
+  left: 27%;
+  font-size: var(--body-body-22-size);
+}
+.span {
+  font-weight: 300;
+  font-family: var(--headline-h52);
+}
+.title2,
+.value2 {
+  position: absolute;
+  top: 44.19%;
+  left: 0;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+}
+.title2 {
+  top: 0;
+  left: 17.91%;
+  font-size: var(--tips-and-details-caption1-size);
+  letter-spacing: 0.4px;
+  line-height: 16px;
+  font-family: var(--body-body-22);
+}
+.finance {
+  height: 5.53%;
+  width: 7.76%;
+  top: 20.69%;
+  right: 37.78%;
+  bottom: 73.78%;
+  left: 54.46%;
+  font-family: var(--font-open-sans);
+}
+.finance,
+.title3,
+.value3 {
+  position: absolute;
+}
+.value3 {
+  top: 44.19%;
+  left: 0;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  font-weight: 300;
+}
+.title3 {
+  top: 0;
+  left: 6.9%;
+  font-size: var(--tips-and-details-caption1-size);
+  letter-spacing: 0.4px;
+  line-height: 16px;
+  font-family: var(--body-body-22);
+}
+.business {
+  height: 5.53%;
+  width: 6.72%;
+  top: 45.5%;
+  right: 21.09%;
+  bottom: 48.97%;
+  left: 72.19%;
+}
+.business,
+.title4,
+.value4 {
+  position: absolute;
+}
+.value4 {
+  top: 44.19%;
+  left: 9.33%;
+  letter-spacing: 0.44px;
+  line-height: 24px;
+  font-weight: 300;
+}
+.title4 {
+  top: 0;
+  left: 0;
+  font-size: var(--tips-and-details-caption1-size);
+  letter-spacing: 0.4px;
+  line-height: 16px;
+  font-family: var(--body-body-22);
+}
+.development {
+  position: absolute;
+  height: 5.53%;
+  width: 8.69%;
+  top: 34.96%;
+  right: 70.22%;
+  bottom: 59.51%;
+  left: 21.09%;
+}
+.bigWidgetBubbleChart {
+  position: absolute;
+  top: calc(50% - 412px);
+  left: calc(50% - 284px);
+  width: 863px;
+  height: 778px;
+  text-align: center;
+  font-size: var(--body-body-12-size);
+  color: var(--snow4);
+  font-family: var(--headline-h52);
+}
